@@ -31,11 +31,11 @@ docker-compose.yml → Définit tous les conteneurs et leurs volumes.
 deploy.sh → Script magique d’installation et de lancement.
 
 🛠️ Installation
-unzip media_stack_autodeploy.zip -d /root/media-stack
+unzip mediastack-main.zip -d /root/media-stack
 cd /root/media-stack
 
 Télécharge et décompresse le zip :
-unzip media_stack_autodeploy.zip -d /root/media-stack
+unzip mediastack-main.zip -d /root/media-stack
 cd /root/media-stack
 
 Rends le script exécutable et lance-le :
